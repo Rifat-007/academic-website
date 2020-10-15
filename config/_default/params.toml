@@ -102,7 +102,7 @@ coordinates = {latitude = "27.2046", longitude = "77.4977"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/RifatIbnAlam1"},
+  {icon = "twitter", icon_pack = "fab", name = "Rifat-Ibn-Alam", link = "https://twitter.com/RifatIbnAlam1"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
