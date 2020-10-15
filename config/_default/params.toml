@@ -97,7 +97,7 @@ address = {street = "548, Borotek Mashjid Road, badda", city = "Dhaka", postcode
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "27.2046", longitude = "77.4977"}
+coordinates = {latitude = "23.780280", longitude = "90.432408"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
