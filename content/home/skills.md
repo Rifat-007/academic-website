@@ -27,8 +27,8 @@ subtitle = ""
   description = "80"
 
 [[feature]]
-  icon = "free-code-camp"
-  icon_pack = "fab"
+  icon = "code"
+  icon_pack = "fas"
   name = "C#"
   description = "80"
 
