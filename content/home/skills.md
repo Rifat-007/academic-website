@@ -33,7 +33,7 @@ subtitle = ""
   description = "80"
 
 [[feature]]
-  icon = "autodesk"
+  icon = "connectdevelop"
   icon_pack = "fab"
   name = "AutoCAD"
   description = "70" 
