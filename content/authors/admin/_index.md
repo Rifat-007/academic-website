@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rifat-Ibn-Alam
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Science Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: American International University- Bangladesh (AIUB)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have completed my B.Sc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). 
+My research interests lies at Data Science specially in Data Mining, AI. I am highly interested to pursue my career as a data scientist.
+I love travelling, taking snaps and watching movies and TV Series. I have been playing competitive games for last 4 years and right now I am playing Valorant. 
 
 interests:
+- Data Mining
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Big Data
+- Networking
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Sc in Computer Science & Engineering
+    institution: American International University- Bangladesh (AIUB)
+    year: 2021
+  - course: Higher Secondary Certificate (HSC)
+    institution: Dhaka College
+    year: 2017
+  - course: Secondary School Certificate (SSC)
+    institution: Badda Alatunnessa Higher Secondary School
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +47,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:rifatibnalam50@gmail.com".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rifat-ibn-alam-0a1286177
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/rifatibnalam/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RifatIbnAlam1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?view_op=new_profile&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Rifat-007
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +82,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have completed my B.Sc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). 
+My research interests lies at Data Science specially in Data Mining, AI. I am highly interested to pursue my career as a data scientist.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I love travelling, taking snaps and watching movies and TV Series. I have been playing competitive games for last 4 years and right now I am playing Valorant. 
