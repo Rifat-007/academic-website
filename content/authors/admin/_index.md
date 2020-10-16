@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I have completed my B.Sc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). 
 My research interests lies at Data Science specially in Data Mining, AI. I am highly interested to pursue my career as a data scientist.
-
+:
 interests:
 - Data Mining
 - Artificial Intelligence
