@@ -30,13 +30,13 @@ subtitle = ""
   icon = "free-code-camp
   icon_pack = "fas"
   name = "C#"
-  description = "80  
+  description = "80"
   
 [[feature]]
   icon = "sketch
   icon_pack = "fas"
   name = "AutoCAD"
-  description = "80 
+  description = "70" 
   
 [[feature]]
   icon = "camera-retro"
