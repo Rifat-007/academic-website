@@ -27,6 +27,12 @@ subtitle = ""
   description = "80"
 
 [[feature]]
+  icon = "firefox"
+  icon_pack = "fab"
+  name = "Web Development"
+  description = "80"
+
+[[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "C#"
