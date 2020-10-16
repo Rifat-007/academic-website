@@ -18,31 +18,31 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80"
+  description = "80%"
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "80"
+  description = "80%"
 
 [[feature]]
   icon = "firefox"
   icon_pack = "fab"
   name = "Web Development"
-  description = "80"
+  description = "90%"
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "C#"
-  description = "80"
+  description = "80%"
 
 [[feature]]
   icon = "connectdevelop"
   icon_pack = "fab"
   name = "AutoCAD"
-  description = "70" 
+  description = "70%" 
 
 [[feature]]
   icon = "camera-retro"
