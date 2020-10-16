@@ -28,13 +28,13 @@ subtitle = ""
 
 [[feature]]
   icon = "free-code-camp"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "C#"
   description = "80"
 
 [[feature]]
-  icon = "sketch"
-  icon_pack = "fas"
+  icon = "autodesk"
+  icon_pack = "fab"
   name = "AutoCAD"
   description = "70" 
 
