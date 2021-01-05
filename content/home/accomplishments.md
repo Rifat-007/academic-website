@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "Academic Scholarship"
   url = ""
   certificate_url = ""
-  date_start = "2021-01-01"
-  date_end = ""
+  date_start = "2018-01-01"
+  date_end = "2021-05-01"
   description = "Received 70% scholarship in the undergraduate based on academic excellence."
   
 [[item]]
