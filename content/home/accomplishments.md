@@ -38,6 +38,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Achieved Dean's Award 3 times for academic performance."
   
+  [[item]]
+  organization = "American International University- Bangladesh"
+  organization_url = "https://www.aiub.edu"
+  title = "Dean's Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-01"
+  date_end = ""
+  description = "Received 70% scholarship in the undergraduate based on academic excellence."
+  
 [[item]]
   organization = "People's Republic of Bangladesh"
   organization_url = "https://dhakaeducationboard.gov.bd/"
