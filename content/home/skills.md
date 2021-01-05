@@ -15,16 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "open-data"
+  icon_pack = "fab"
+  name = "Weka"
+  description = "90%"
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  description = "60%"
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "80%"
+  description = "70%"
 
 [[feature]]
   icon = "firefox"
@@ -36,7 +42,7 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "C#"
-  description = "80%"
+  description = "70%"
 
 [[feature]]
   icon = "connectdevelop"
@@ -48,7 +54,7 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "60%"
+  description = "80%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
