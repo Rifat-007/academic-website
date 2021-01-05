@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   [[item]]
   organization = "American International University- Bangladesh"
   organization_url = "https://www.aiub.edu"
-  title = "Dean's Award"
+  title = "Academic Scholarship"
   url = ""
   certificate_url = ""
   date_start = "2021-01-01"
