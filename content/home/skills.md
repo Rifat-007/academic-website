@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "open-data"
+  icon = "weebly"
   icon_pack = "fab"
   name = "Weka"
   description = "90%"
