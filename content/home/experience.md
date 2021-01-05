@@ -25,9 +25,12 @@ date_format = "Jan 2006"
   date_start = "2020-11-01"
   date_end = ""
   description = """We are currently working with UI/UX Design, Graphics and Logo Design, Frontend Web Development and Business Promotion.
-  Responsibilities include:
+   
+   Responsibilities include:
   
   * Front-End Web Developer
+  * UI/UX Design
+  * Business Promotion
   * Digital Marketing
   """
 
