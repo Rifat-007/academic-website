@@ -89,7 +89,6 @@ show_related = {docs = false, page = false, post = true, project = true, publica
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "rifatibnalam50@gmail.com"
-phone = "+8801521108947"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -114,6 +113,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
+facebook = "https://www.facebook.com/rifatibnalam"
 twitter = "RifatIbnAlam1"
 
 ############################
