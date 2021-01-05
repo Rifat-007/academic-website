@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have completed my B.Sc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). My research interests lies at Data Science specially in Data Mining, AI. I am highly interested to pursue my career as a data scientist.
+bio: I have completed my B.Sc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). My research interests lies at Data Science specially in Data Mining. I am highly interested to pursue my career as a data scientist.
 
 interests:
 - Data Mining
@@ -52,6 +52,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/rifatibnalam/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/rifat_ibn_alam/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RifatIbnAlam1
@@ -63,9 +66,9 @@ social:
   link: https://github.com/Rifat-007
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -83,4 +86,4 @@ user_groups:
 I have completed my B.Sc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). 
 My research interests lies at Data Science specially in Data Mining, AI. I am highly interested to pursue my career as a data scientist.
 
-I love travelling, taking snaps and watching movies and TV Series. I have been playing competitive games for last 4 years and right now I am playing Valorant. 
+I love travelling, taking snaps and watching movies and TV Series. I have been into competitive gaming for the last 4 years and currently playing Valorant. 
