@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Science Student
+role: Computer Science Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,19 @@ organizations:
   url: "https://www.aiub.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have completed my B.Sc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). My research interests lies at Data Science specially in Data Mining. I am highly interested to pursue my career as a data scientist.
-
+bio: I have completed my BSc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). Right now, I am pursuing my Master's in Computer Science at American International University- Bangladesh (AIUB). My research interests lies at Data Science specially in Data Mining, Data Analytics and Machine Learning. 
 interests:
 - Data Mining
-- Artificial Intelligence
+- Data Analytics
 - Big Data
-- Networking
+- Machine Learning
 
 education:
   courses:
-  - course: B.Sc in Computer Science & Engineering
+  - course: MSC in Computer Science
+    institution: American International University- Bangladesh (AIUB)
+    year: Ongoing
+  - course: BSc in Computer Science & Engineering
     institution: American International University- Bangladesh (AIUB)
     year: 2021
   - course: Higher Secondary Certificate (HSC)
@@ -51,7 +53,7 @@ social:
   link: https://www.linkedin.com/in/rifat-ibn-alam-0a1286177
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/rifatibnalam/
+  link: https://www.facebook.com/Rifat.tt007
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/rifat_ibn_alam/
