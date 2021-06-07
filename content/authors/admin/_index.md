@@ -85,7 +85,6 @@ user_groups:
 - Visitors
 ---
 
-I have completed my B.Sc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). 
-My research interests lies at Data Science specially in Data Mining, AI. I am highly interested to pursue my career as a data scientist.
+I have completed my BSc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). Right now, I am pursuing my Master's in Computer Science at American International University- Bangladesh (AIUB). My research interests lies at Data Science specially in Data Mining, Data Analytics and Machine Learning. 
 
-I love travelling, taking snaps and watching movies and TV Series. I have been into competitive gaming for the last 4 years and currently playing Valorant. 
+I love travelling, taking snaps and watching movies and TV Series.
