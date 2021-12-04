@@ -18,7 +18,7 @@ organizations:
   url: "https://www.aiub.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have completed my BSc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). Right now, I am pursuing my Master's in Computer Science at American International University- Bangladesh (AIUB). My research interests lies at Data Science specially in Data Mining, Data Analytics and Machine Learning. 
+bio: I have completed my BSc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). Right now, I am pursuing my Master's in Computer Science at American International University- Bangladesh (AIUB). Currently, I am employed as an intern in the Digital Business Solutions department at BAT Bangladesh. My research interests lies at Data Science specially in Data Mining, Data Analytics and Machine Learning. 
 interests:
 - Data Mining
 - Data Analytics
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MSC in Computer Science
+  - course: MSc in Computer Science
     institution: American International University- Bangladesh (AIUB)
     year: Ongoing
   - course: BSc in Computer Science & Engineering
@@ -85,6 +85,6 @@ user_groups:
 - Visitors
 ---
 
-I have completed my BSc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). Right now, I am pursuing my Master's in Computer Science at American International University- Bangladesh (AIUB). My research interests lies at Data Science specially in Data Mining, Data Analytics and Machine Learning. 
+I have completed my BSc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). Right now, I am pursuing my Master's in Computer Science at American International University- Bangladesh (AIUB). Currently, I am employed as an intern in the Digital Business Solutions department at BAT Bangladesh. My research interests lies at Data Science specially in Data Mining, Data Analytics and Machine Learning. 
 
-I love travelling, taking snaps and watching movies and TV Series.
+I love travelling, taking photos and watching movies and TV Series.
