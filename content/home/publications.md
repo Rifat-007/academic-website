@@ -25,7 +25,7 @@ Page order. Descending (desc) or ascending (asc) date.
 
 Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Data Mining"
     category = "Journal"
     publication_type = "A Comparative Analysis among Online and On-Campus Students using Decision Tree."
     author = "Rifat-Ibn-Alam, Md. Golam Ahsan Akib, Nyme Ahmed, Syed Nafiul Shefat, Dr. Dip Nandi"
