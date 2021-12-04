@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "https://www.batbangladesh.com/"
   location = "Dhaka, Bangladesh"
   date_start = "2021-12-01"
-  date_end = "Present"
+  date_end = ""
   description = """I have joined as an intern at BAT Bangladesh in the Digital Business Solutions department. This internship is under the Xcelerate program, which is one of the most competitive internships in Bangladesh. I am assigned at the Digital Business Solutions department. This department works with the technological advancements to make all the business processes seamless. As an intern, I am supposed to observe and learn how the processes works and how technology enhances the business. Moreover, this internship has given me the opportunity to learn from the best individuals."""
 
 +++
