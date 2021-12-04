@@ -18,23 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Co-Founder"
-  company = "Slash IT"
-  company_url = ""
-  location = "Dhaka, Bangladesh"
-  date_start = "2020-11-01"
-  date_end = ""
-  description = """We are currently working with UI/UX Design, Graphics and Logo Design, Frontend Web Development and Business Promotion.
-   
-   Responsibilities include:
-  
-  * Front-End Web Developer
-  * UI/UX Design
-  * Business Promotion
-  * Digital Marketing
-  """
-
-[[experience]]
   title = "Teacher's Assistant"
   company = "American International University- Bangladesh"
   company_url = "www.aiub.edu"
@@ -42,5 +25,14 @@ date_format = "Jan 2006"
   date_start = "2021-01-24"
   date_end = "2021-05-01"
   description = """Worked as a TA in the Computer Science departent of American International University- Bangladesh."""
+
+[[experience]]
+  title = "Intern at DBS"
+  company = "BAT Bangladesh"
+  company_url = "https://www.batbangladesh.com/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2021-12-01"
+  date_end = "Present"
+  description = """I have joined as an intern at BAT Bangladesh in the Digital Business Solutions department. This internship is under the Xcelerate program, which is one of the most competitive internships in Bangladesh. I am assigned at the Digital Business Solutions department. This department works with the technological advancements to make all the business processes seamless. As an intern, I am supposed to observe and learn how the processes works and how technology enhances the business. Moreover, this internship has given me the opportunity to learn from the best individuals."""
 
 +++
