@@ -26,10 +26,10 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+    category = "Journal"
+    publication_type = "A Comparative Analysis among Online and On-Campus Students using Decision Tree."
+    author = "Rifat-Ibn-Alam, Md. Golam Ahsan Akib, Nyme Ahmed, Syed Nafiul Shefat, Dr. Dip Nandi"
+    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
