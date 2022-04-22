@@ -85,6 +85,6 @@ user_groups:
 - Visitors
 ---
 
-I have completed my BSc(Hons) in Computer Science & Engineering from American International University- Bangladesh (AIUB). Right now, I am pursuing my Master's in Computer Science at American International University- Bangladesh (AIUB). Currently, I am employed as an intern in the Digital Business Solutions department at BAT Bangladesh. My research interests lies at Data Science specially in Data Mining, Data Analytics and Machine Learning. 
+I have completed my MSc and BSc in Computer Science from American International University- Bangladesh (AIUB) securing prestigious Summa Cum Laude award. Right now, I employed as Automation Engineer at British American Tobacco Bangladesh. My research interests lies at Data Science specially in Data Mining, Data Analytics and Machine Learning. 
 
 I love travelling, taking photos and watching movies and TV Series.
