@@ -59,7 +59,7 @@ social:
   link: https://www.instagram.com/rifat_ibn_alam/
 - icon: scholar
   icon_pack: fab
-  link: [https://twitter.com/RifatIbnAlam1](https://scholar.google.com/citations?user=Bbh1PtYAAAAJ&hl=en)
+  link: https://scholar.google.com/citations?user=Bbh1PtYAAAAJ&hl=en
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?view_op=new_profile&hl=en
