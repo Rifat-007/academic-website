@@ -25,7 +25,7 @@ view: 5
     publication_type = "Investigation of Computing Students’ Performances in a Fully Online Environment During COVID-19 Pandemic."
     author = "Syed Nafiul Shefat, Md. Golam Ahsan Akib, Nyme Ahmed, Rifat-Ibn-Alam, Prof. Dr. Dip Nandi"
     exclude_featured = false
-		
+    
     tag = "Internet of Things"
     category = "Journal"
     publication_type = "Keep Me In Distance- An Internet Of Things Based Social Distance Monitoring System In Covid19"
