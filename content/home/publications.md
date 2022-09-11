@@ -30,6 +30,7 @@ Filter posts by a taxonomy term.
     publication_type = "A Comparative Analysis among Online and On-Campus Students using Decision Tree."
     author = "Rifat-Ibn-Alam, Md. Golam Ahsan Akib, Nyme Ahmed, Syed Nafiul Shefat, Prof. Dr. Dip Nandi"
     exclude_featured = false
+    
   [content.filters]
     tag = "Data Mining"
     category = "Journal"
