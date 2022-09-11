@@ -25,9 +25,42 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+[[content.filter_button]]
+   name = "Digital Sourcing Request Portal"
+   tag = "Microsoft PowerPlatform"
+
+[[content.filter_button]]
+   name = "WishGenie (digital greetings sending bot) "
+   tag = "Microsoft PowerPlatform"
+
+[[content.filter_button]]
+   name = "AutoNotic (smart task reminder agent) "
+   tag = "Microsoft PowerPlatform"
+
+[[content.filter_button]]
+   name = "Asset Tracking System "
+   tag = "Microsoft PowerPlatform"
+
+[[content.filter_button]]
+   name = "Handset Reimbursement Automation "
+   tag = "Microsoft PowerPlatform"
+
+[[content.filter_button]]
+   name = "Digital Intern Requisition (portal) "
+   tag = "Microsoft PowerPlatform"
+
+[[content.filter_button]]
+   name = "Smart spare parts shop portal"
+   tag = "Microsoft PowerPlatform"
+
+[[content.filter_button]]
+   name = "Movie Polling System using HTML, CSS and PHP "
+   tag = "PHP"
+
+[[content.filter_button]]
+   name = "Travel Management System "
+   tag = "C#"
+
   
   # [[content.filter_button]]
   #   name = "Other"
