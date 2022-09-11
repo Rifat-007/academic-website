@@ -32,8 +32,8 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+ - name: "A Comparative Analysis among Online and On-Campus Students using Decision Tree."
+   url: "https://www.mecs-press.org/ijmsc/ijmsc-v8-n2/IJMSC-V8-N2-2.pdf"
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
