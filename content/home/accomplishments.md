@@ -21,10 +21,20 @@ date_format = "Jan 2006"
 [[item]]
   organization = "American International University- Bangladesh"
   organization_url = "https://www.aiub.edu"
-  title = "Summa Cum Laude "
+  title = "Summa Cum Laude [MSc (Tentative)]"
   url = ""
   certificate_url = ""
-  date_start = "2021-05-01"
+  date_start = "2022-10-10"
+  date_end = ""
+  description = "Summa Cum Laude for academic excellence throughout the graduate program."
+
+[[item]]
+  organization = "American International University- Bangladesh"
+  organization_url = "https://www.aiub.edu"
+  title = "Summa Cum Laude [BSc]"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-10-10"
   date_end = ""
   description = "Achieved Summa Cum Laude for academic excellence throughout the undergraduate career."
 
