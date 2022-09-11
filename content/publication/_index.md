@@ -28,10 +28,10 @@ view: 5
 		
     tag = "Internet of Things"
     category = "Journal"
-    publication_type = "Keep Me In Distance: An Internet Of Things Based Social Distance Monitoring System In Covid19"
+    publication_type = "Keep Me In Distance- An Internet Of Things Based Social Distance Monitoring System In Covid19"
     author = "Rifat-Ibn-Alam, Nyme Ahmed, Syed Nafiul Shefat, Dr. Md Taimur Ahad"
     exclude_featured = false
-
+    
     tag = "Machine Learning"
     category = "Journal"
     publication_type = "Performance Evaluation of Data Mining Classification Algorithms for Predicting Breast Cancer"
