@@ -27,6 +27,8 @@
 #  name = "Publications"
 #  url = "#publications"
 #  weight = 40
+#  weight = 0
+
 
 [[main]]
   name = "Contact"
