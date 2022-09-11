@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "A Comparative Analysis among Online and On-Campus Students using Decision Tree."
 authors:
 - admin
 - Robert Ford
@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "A Comparative Analysis among Online and On-Campus Students using Decision Tree."
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: : COVID-19 hit the world unexpectedly, forcing humans to isolate themselves. It has placed the lives of people in jeopardy with its fury. The global pandemic had a detrimental effect on the worlds' education spheres. It has imposed a global lockdown, with a negative impact on the students' lives. Continuing regular classes on-campus was out of the question. At that moment, online learning came to us as a savior. The quality of online education was yet to be tested on a large scale compared to regular schooling. Educational data mining is a modern arena that holds promise for those who work in education. Data mining strategies are developed to uncover latent information and identify valuable trends that can increase students' performance and, in turn, contribute to the improvement of the educational system in the long run. This research mainly aims to identify a comparative analysis of the students' academic performance between online and on-campus environments and distinguish the significant characteristics that influence their academic endeavors. The impact of the factors on the students' performance is visualized with the help of the Decision Tree Classification Model. This paper will assist in giving a good overview that influences the distinguished factors on students' academic performance. Moreover, educators will also be benefited from this paper while making any important decision regarding the educational activity.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,7 +31,7 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+ links:
  - name: "A Comparative Analysis among Online and On-Campus Students using Decision Tree."
    url: "https://www.mecs-press.org/ijmsc/ijmsc-v8-n2/IJMSC-V8-N2-2.pdf"
 url_pdf: http://arxiv.org/pdf/1512.04133v1
