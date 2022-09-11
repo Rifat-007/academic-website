@@ -14,18 +14,6 @@ subtitle = ""
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    
     tag = "Data Mining"
     category = "Journal"
     publication_type = "A Comparative Analysis among Online and On-Campus Students using Decision Tree."
@@ -54,6 +42,23 @@ subtitle = ""
     category = "Journal"
     publication_type = "Performance Evaluation of Data Mining Classification Algorithms for Predicting Breast Cancer"
     author = "Nyme Ahmed, Rifat-Ibn-Alam, Syed Nafiul Shefat"
+    exclude_featured = false
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
     exclude_featured = false
   
 [design]
