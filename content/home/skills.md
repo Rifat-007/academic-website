@@ -27,10 +27,10 @@ subtitle = ""
   description = "60%"
 
 [[feature]]
-  icon = "java"
+  icon = "microsoft"
   icon_pack = "fab"
-  name = "Java"
-  description = "70%"
+  name = "Microsoft PowerPlatform (PowerApps, PowerAutomate, PowerBI"
+  description = "95%"
 
 [[feature]]
   icon = "firefox"
