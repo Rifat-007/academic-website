@@ -4,13 +4,14 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Publications"
+title = "Recent Publications"
 subtitle = ""
+
 [content]
-#Page type to display. E.g. post, talk, or publication.
+  # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
 #Choose how much pages you would like to display (0 = all pages)
@@ -23,34 +24,31 @@ subtitle = ""
   order = "desc"
 
 #Filter posts by a taxonomy term.
-[content.filters]
+ [content.filters]
     tag = "Data Mining"
     category = "Journal"
     publication_type = "A Comparative Analysis among Online and On-Campus Students using Decision Tree."
     author = "Rifat-Ibn-Alam, Md. Golam Ahsan Akib, Nyme Ahmed, Syed Nafiul Shefat, Prof. Dr. Dip Nandi"
     exclude_featured = false
     
-[content.filters]
     tag = "Data Mining"
     category = "Journal"
     publication_type = "An Extensive Analysis on Computing Students' Academic Performance in Online Environment using Decision Tree."
     author = "Nyme Ahmed, Rifat-Ibn-Alam, Md. Golam Ahsan Akib, Syed Nafiul Shefat, Prof. Dr. Dip Nandi"
     exclude_featured = false
 
-[content.filters]
     tag = "Data Mining"
     category = "Journal"
     publication_type = "Investigation of Computing Students’ Performances in a Fully Online Environment During COVID-19 Pandemic."
     author = "Syed Nafiul Shefat, Md. Golam Ahsan Akib, Nyme Ahmed, Rifat-Ibn-Alam, Prof. Dr. Dip Nandi"
     exclude_featured = false
-[content.filters]
+		
     tag = "Internet of Things"
     category = "Journal"
     publication_type = "Keep Me In Distance: An Internet Of Things Based Social Distance Monitoring System In Covid19"
     author = "Rifat-Ibn-Alam, Nyme Ahmed, Syed Nafiul Shefat, Dr. Md Taimur Ahad"
     exclude_featured = false
 
-[content.filters]
     tag = "Machine Learning"
     category = "Journal"
     publication_type = "Performance Evaluation of Data Mining Classification Algorithms for Predicting Breast Cancer"
