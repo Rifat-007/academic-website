@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rifat-Ibn-Alam
+title: Rifat Ibn Alam
 
 # Username (this should match the folder name)
 authors:
