@@ -18,7 +18,7 @@ organizations:
   url: "https://www.aiub.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Rifat Ibn Alam, a very enthusiastic individual about science, technology, and more specifically Computers which led me to pursue my career in the Computer Science domain. Currently, I am working as a Lecturer in the Computer Science department at American International University- Bangladesh. Till now I have published 5 research papers in international journals. 
+bio: I am Rifat Ibn Alam, a very enthusiastic individual about science, technology, and more specifically Computers which led me to pursue my career in the Computer Science domain. Currently, I am working as a Lecturer in the Computer Science department at American International University- Bangladesh. 
 interests:
 - Data Mining
 - Data Analytics
@@ -85,4 +85,4 @@ user_groups:
 - Visitors
 ---
 
-I am Rifat Ibn Alam, a very enthusiastic individual about science, technology, and more specifically Computers which led me to pursue my career in the Computer Science domain. Currently, I am working as a Lecturer in the Computer Science department at American International University- Bangladesh. Till now I have published 5 research in international journals.
+I am Rifat Ibn Alam, a very enthusiastic individual about science, technology, and more specifically Computers which led me to pursue my career in the Computer Science domain. Currently, I am working as a Lecturer in the Computer Science department at American International University- Bangladesh.
